@@ -1,0 +1,4 @@
+# this is test script of R.
+
+a <- 1+1
+print(a)
